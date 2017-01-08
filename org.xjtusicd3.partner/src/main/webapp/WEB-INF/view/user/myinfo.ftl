@@ -31,9 +31,6 @@
 
     </script>
 
-
-
-
     
     <link rel="stylesheet" href="${path}/static/css/user/settings/common-less.css" type="text/css" />
     <link rel="stylesheet" href="${path}/static/css/user/settings/profile-less.css" type="text/css" />

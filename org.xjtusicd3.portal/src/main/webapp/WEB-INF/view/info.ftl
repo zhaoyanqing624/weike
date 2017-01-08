@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="/org.xjtusicd3.portal/css/admin.css">
     <script src="/org.xjtusicd3.portal/js/jquery.js"></script>
     <script src="/org.xjtusicd3.portal/js/pintuer.js"></script>  
-    
     <script src="/org.xjtusicd3.portal/js/echarts.js"></script>
     
     <style type="text/css">

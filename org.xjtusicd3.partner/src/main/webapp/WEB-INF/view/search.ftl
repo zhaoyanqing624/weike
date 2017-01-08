@@ -61,7 +61,7 @@
             <i class="icon-menu"></i>
         </button>
         <ul class="nav-item">
-            <li class="set-btn visible-xs-block"><a href="/user/newlogin" target="_self">登录</a> / <a href="/user/newsignup" target="_self">注册</a></li>
+            <li class="set-btn visible-xs-block"><a href="/user/newlogin" target="_self">登录</a><a href="/user/newsignup" target="_self">注册</a></li>
             <li id="nav-item-index">
                 <a href="${path}/index.html" target="_self">首页</a>
             </li>
